@@ -12,3 +12,10 @@ body {
     background: white;
     border-radius: 12px;
 }
+
+#contacts {
+    margin-top: 24px;
+    padding: 16px;
+    background: #f0f0f0;
+    border-radius: 8px;
+}
